@@ -1,7 +1,3 @@
-Here’s a **professional, recruiter-ready README** you can paste directly into your repo.
-
----
-
 # Customer Churn Dashboard
 
 A machine learning–powered dashboard that predicts whether a customer is likely to churn using historical customer data. The project combines data analysis, model training, an API layer, and visual insights to help businesses identify at-risk customers and take preventive action.
