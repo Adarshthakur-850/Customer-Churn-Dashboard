@@ -6,9 +6,6 @@ on:
   pull_request:
     branches: ["main"]
 
-permissions:
-  contents: read
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -45,4 +42,4 @@ jobs:
 
       - name: Run tests (skip if none)
         run: |
-          if [ -d tests ]; then pytest -v; else echo "No tests directory, skipping tests."; fi
+          if [ -d tests ]; then pytest -v; else echo "No tests directory, skipping."; fi
