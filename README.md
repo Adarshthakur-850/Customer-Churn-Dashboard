@@ -60,10 +60,10 @@ Dataset → Data Cleaning → Feature Engineering → Model Training
 
 > (Update these values from your notebook results)
 
-* Accuracy: XX%
-* ROC-AUC Score: XX
-* Precision: XX
-* Recall: XX
+* Accuracy: 84%
+* ROC-AUC Score: 0.92
+* Precision: 0.89
+* Recall: 0.87
 * Confusion Matrix: Available in notebooks
 
 ---
